@@ -1,0 +1,5 @@
+tensorflow
+streamlit-folium
+folium
+gsheetsdb
+scikit-learn
