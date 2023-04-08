@@ -1,6 +1,13 @@
 # Parking Violation Prediction Using Residual Neural Networks
 Parking violation prediction of Thessaloniki's parking system using Deep Learning.
 
+
+This work has been presented at the IVSMP conference and in the PRLetters journal. You can find the papers in pdf format in that repo.
+
+
+
+
+
 The history of municipal police scans is missing from the data. As well as the corresponding notebooks where they process this information, analyze it and visualize it out.
 This data is unfortunately not publicly available.
 In its place we have placed fake randomly generated data so that someone can see the dimension and the type of data while runnig the code.
