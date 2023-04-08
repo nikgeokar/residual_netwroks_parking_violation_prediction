@@ -2,19 +2,11 @@
 Parking violation prediction of Thessaloniki's parking system using Deep Learning.
 
 
-This work has been presented at the IVSMP conference and in the PRLetters journal. You can find the papers in pdf format in that repo.
+This git repo contains a Deep Learning model for predicting parking violations in Thessaloniki's parking system. Our model has been presented at the IVSMP conference and in the PRLetters journal, and you can find the papers in pdf format in this repository.
 
+Please note that the history of municipal police scans is missing from the data, along with the corresponding notebooks for processing, analysis, and visualization. Unfortunately, this data is not publicly available. Instead, we have included fake randomly generated data in the scans_data2 file, which provides a glimpse of the dimensions and type of data when running the code.
 
-
-
-
-The history of municipal police scans is missing from the data. As well as the corresponding notebooks where they process this information, analyze it and visualize it out.
-This data is unfortunately not publicly available.
-In its place we have placed fake randomly generated data so that someone can see the dimension and the type of data while runnig the code.
-
-So the actual scans_data file is missing and in its view we have placed the file scans_data2 which is a sample of 1000 rows which are not real and have been generated with random numbers.
-
-The diagram below describes the pipeline of the project:
+To give you an overview of our project, the diagram below outlines the pipeline of our model.
 
 
 
