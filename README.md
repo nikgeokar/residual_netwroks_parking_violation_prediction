@@ -1,4 +1,4 @@
-# Parking_Violation_Prediction
+# Parking Violation Prediction Using Residual Neural Networks
 Parking violation prediction of Thessaloniki's parking system using Deep Learning.
 
 The history of municipal police scans is missing from the data. As well as the corresponding notebooks where they process this information, analyze it and visualize it out.
